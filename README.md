@@ -1,3 +1,7 @@
+# Counter app
+
+This small project was created as an introduction to React. It consists of a small app with several buttons that increment a counter by a given number.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
